@@ -1,0 +1,17 @@
+.tabs-btns{
+    display: flex;
+
+    button{
+        cursor:pointer;
+        width: 40px;
+        height: 25px;
+        margin-left: 5px;
+        border-radius: 7%;
+        border: none;
+        background-color:  rgb(231, 231, 231);  
+    }
+    :hover{
+        background-color:  rgb(182, 179, 179); 
+    }
+   
+}
